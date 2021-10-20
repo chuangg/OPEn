@@ -1,8 +1,7 @@
 ## Installing the environment
 
-`git clone https://github.ibm.com/Abhi-B/gym-tdw.git`
+`git clone https://github.com/chuangg/OPEn.git && cd OPEn/`
 
-`cd gym-tdw`
 
 Download [3d_models](https://agent-dataset-storage.s3.us-east.cloud-object-storage.appdomain.cloud/3d_models.zip) and unzip
 
